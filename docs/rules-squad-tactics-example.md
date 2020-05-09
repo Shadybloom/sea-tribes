@@ -208,17 +208,20 @@ battle_map_city_cats = (
 
 Тинкины волшебные коты и ученики колдуна обмениваются ударами. И колдовские успевают чуть раньше:  
 
-```
 Вот почему, чёрт возьми, без рунного щита не обойтись!
+
+```
 [+++] BLUEFOR (9, 18) commander reaction Shield 22/17 << ('cantrip', 'Eldritch_Blast'), atc 22 dmg 11
 [+++] BLUEFOR (9, 18) commander reaction Shield 22/17 << ('cantrip', 'Eldritch_Blast'), atc 21 dmg 8
 [+++] BLUEFOR (9, 18) commander reaction Shield 22/17 << ('cantrip', 'Eldritch_Blast'), atc 18 dmg 8
 [!!!] OPFOR, (16, 1) elite_warrior ('cantrip', 'Eldritch_Blast') >>>> (9, 18) commander, crit False dmg 13
-Всё же подранил саму Тинв.
 ```
 
-```
+Всё же подранил саму Тинв.
+
 А вот и ответочка:
+
+```
 [!!!] BLUEFOR, (17, 5) archer ('1_lvl', 'Magic_Missile') >>>> (9, 0) commander, crit False dmg 5
 [!!!] BLUEFOR, (17, 5) archer ('1_lvl', 'Magic_Missile') >>>> (9, 0) commander, crit False dmg 4
 [!!!] BLUEFOR, (17, 5) archer ('1_lvl', 'Magic_Missile') >>>> (9, 0) commander, crit False dmg 4
@@ -230,14 +233,17 @@ battle_map_city_cats = (
 [!!!] BLUEFOR, (18, 5) archer ('1_lvl', 'Magic_Missile') >>>> (9, 0) commander, crit False dmg 3
 [!!!] BLUEFOR, (13, 5) archer ('1_lvl', 'Magic_Missile') >>>> (9, 0) commander, crit False dmg 5
 BLUEFOR, (13, 5) archer ('1_lvl', 'Magic_Missile') >> (9, 0) commander, hit True, fall True
-В аккурат -40 хитов, и злодей падает. Котики не добивают его.
 ```
+
+В аккурат -40 хитов, и злодей падает. Котики не добивают его.
 
 Вояка — в минус. Колдун — в минус. И мы врываемся в строй врагов.  
 
 ## Ход отрядов
 
 ![Ход отрядов](/images/battle-3.png)  
+
+### Действия наших
 
 Зона №0 — тинкины волшебные коты, и она сама с "Громким мявом" (Shatter). Но сразу после оглушающего мява, вся магия в "Усыпление". Хоть усыпление в боевой статистике и не учитывается, но, по карте видно, отработало только так.  
 ```
@@ -296,7 +302,6 @@ fall 6 Warrior 1 lvl (cilician infantry)
 
 Зона №3 — лучники на галерее храма. Они делали что могли, но не очень-то преуспели. Враг сразу начал отходить.  
 ```
---------------------------------------------------------------------------------
 BLUEFOR zone_3 Company-regular (infantry-cilician) exp 300 hp 1038/1038 (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
 ('ranged', 'Shortbow', 'damage') 132
 ('ranged', 'Shortbow', 'fatal') 9
@@ -304,7 +309,9 @@ BLUEFOR zone_3 Company-regular (infantry-cilician) exp 300 hp 1038/1038 (dead 0%
 ('ranged', 'Shortbow', 'miss') 193
 ```
 
-Теперь враги.  
+----
+
+### Теперь враги
 
 Зона №5 — щитовики. Полюбуйтесь на их великие достижения. Одного котика подранили, вот и весь результат. Хаос после потери лидера сделал своё дело, почти сразу же они начали отступать. Попытались отойти организованно, но куда там, попали под "Усыпление". Пленными потеряли половину своих.  
 
@@ -358,7 +365,7 @@ fall 11 Warrior 1 lvl (shekelesh infantry)
 ('ranged', 'Shortbow', 'miss') 232
 ```
 
-### Ход отрядов
+### Ход соседних отрядов
 
 Тем временем. Встреча наших копейщиков ополчения и отряда с глефами. К западу от воюющих с колдуном храбрых котов.
 
