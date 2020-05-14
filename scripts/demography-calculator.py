@@ -11,8 +11,9 @@ AGE_END = 120
 
 # Переменные геометрической прогрессии роста населения:
 # Численность населения в год начала отсчёта:
-#POPULATION = 2000000
-POPULATION = 6000
+#POPULATION = 100000000
+POPULATION = 2000000
+#POPULATION = 6000
 # Уровень рождаемости (например: 0.03 значит 3%
 # или 30 новорожденных на 1000 населения в год):
 # http://vln.by/node/214
@@ -716,7 +717,7 @@ for meta_key in sorted(metadict.keys()):
     army_soldiers = army_soldiers + metadict[meta_key][prof_name_apprentice]
     army_reservists = army_reservists + metadict[meta_key][prof_name_expert]
 print('Численность популяции:', population_alive)
-#print('Численность поколений:', generations_all)
+print('Численность поколений:', generations_all)
 print('Суммарный коэффициент рождаемости: {} ({} детей в семье)'.format(
     round(total_fertility_rate, 1),
     round((total_fertility_rate * (1 - A_INFANT_MORTALITY_CORRECTION)), 1)
