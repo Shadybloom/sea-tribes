@@ -105,6 +105,8 @@
 
 [b]Копилка богатств[/b]: 230 эфесов в монетах (1607 в оцененных сокровищах всего)
 [spoiler]
+Корабли и запасы: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-transport-and-gears.md[/link]
+Руны и эссенции: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-runes.md[/link]
 [code]
 (??? -- ценность ещё не определена, опыт не учтён)
 ----------------------------------
