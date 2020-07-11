@@ -22,7 +22,7 @@
 
 Ниже расчёты для племени в 6000 человек, занимающего 6x6 миль территории (120 км²).
 
-Вывод [army-structure-analyser.py](/scripts/army-structure-analyser.py):  
+Вывод [army-structure-analyser.py](/scripts/):  
 
 ```
 Выбрано: Владение Лемнос (Ианта «Дочь бури») 1
