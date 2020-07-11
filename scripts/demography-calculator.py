@@ -922,5 +922,5 @@ print('Возрастной состав:')
 for key, population in dict_population_ages.items():
     population_part = population / population_alive
     #population_test = population_test + population_part
-    #print(key, ' -- ', round(population_part, 5), sep='')
-    print(key, ' -- ', round(population), ' (' , round(population_part * 100), '%)', sep='')
+    print(key, ' -- ', round(population_part, 5), sep='')
+    #print(key, ' -- ', round(population), ' (' , round(population_part * 100), '%)', sep='')
