@@ -1,0 +1,402 @@
+* Громовые птицы (CR 1)
+* Воздушные элементали (CR 5)
+* Земляные элементали (CR 5)
+
+## Громовые птицы (CR 1)
+
+[b]Громовые птицы[/b]: [CR 1]
+
+Призываются заклинанием 4 круга "Призыв малых элементалей" (Conjure_Minor_Elementals)
+
+[b]Характеристики[/b]:
+- Скорость полёта -- 300 футов;
+- Дальность стрельбы -- 300 футов;
+- Боекомплект -- 100 "стреловых перьев" на птицу (1d6 урона при попадании)
+- Боекомплект -- 10 громовых перьев на птицу (+1d6 урона громом, спасбросок телосложения обнуляет урон)
+
+[b]Тактика врага[/b]
+- Гадость птичек в том, что кидая громовые перья по наземным целям, они бьют громом независимо от того, попало перо или нет. Достаточно того, чтобы перо воткнулось в землю в точке цели.
+- Громоптицы опасны скоростью, манёвром и первой атакой. Когда у них кончается боекомплект громовых перьев, они превращаются в обычных так-себе-лучников.
+
+[b]Противодействие[/b]
+- Громоптицы являются средними по размеру существами. Они не могут нести всадника-человека, в отличии от равных им по CR гигантских орлов. В том числе не могут и поднять в воздух, схватив.
+- Они лёгкие цели для отряда стрелков. И очень лёгкие для снайперов вроде Лонгина.
+
+[b]Параметры отряда "Громовых птиц"[/b]:
+[spoiler][code][noparse]
+0 Company-regular (громовые птицы) (враг)
+---Выбор отряда (номер отряда):0
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 21 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 31 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 25 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 31 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 20 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 26 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 25 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 30 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 21 AC: 13 load 0/50
+Громовая птица (Thunderbird) (CR 1) cost: 0.0 hp: 20 AC: 13 load 0/50
+Громовая птица-вожак (Thunderbird) (CR 1) cost: 0.0 hp: 30 AC: 13 load 0/50
+Громовая птица-вожак (Thunderbird) (CR 1) cost: 0.0 hp: 34 AC: 13 load 0/50
+{'equipment_weight (lb)': 0, 'backpack_weight (lb)': 0, 'property_weight (lb)': 0, 'supply_weight (lb)': 0, 'normal_load (lb)': 600, 'light_load (lb)': 300.0, 'maximum_load (lb)': 1200, 'battle_lightload': False, 'battle_overload': False, 'travel_overload': False, 'base_speed': 720, 'overload_soldiers': 0, 'lightload_soldiers': 0}
+{'equipment_cost': 0, 'property_cost': 0, 'supply_cost': 0, 'spells_cost': 0, 'unit_pay_year': 0}
+Squad Number: 12
+Medial attack_mod: (5, 5.0, 5.0)
+Medial hp: 26.2 Medial AC: 13.0
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [мостовики Отто vs громовые птицы]
+[spoiler][code][noparse]
+* Вариант боя, где мостовики отступают полями и перелесками (текущий)
+paste:2020-07-15_18:03:01
+round end: 20 time: 0.626
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (легионеры мостовика Отто) (друг) exp 0 hp 617/918 (temp_hp 0/42) (dead 3% disabled 1% captured 0%) fall 19%, injured 0%, light 0%, escape 81% lucky 0%
+dead 3 Warrior 1 lvl (legionary infantry)
+disabled 1 Warrior 2 lvl (legionary infantry-corporal)
+fall 1 Warrior 4 lvl (legionary infantry-lieutenant)
+fall 3 Warrior 2 lvl (legionary infantry-corporal)
+fall 10 Warrior 1 lvl (legionary infantry)
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (громовые птицы) (враг) exp 725 hp 335/335 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+('ranged', 'arrow-feather', 'damage') 57
+('ranged', 'arrow-feather', 'fatal') 5
+('ranged', 'arrow-feather', 'hit') 9
+('ranged', 'arrow-feather', 'miss') 99
+('ranged', 'thunder-feather', 'damage') 47
+('ranged', 'thunder-feather', 'damage_temp_hp') 5
+('ranged', 'thunder-feather', 'fatal') 4
+('ranged', 'thunder-feather', 'hit') 8
+('ranged', 'thunder-feather', 'miss') 112
+('subspell', 'Thunderclap', 'damage') 266
+('subspell', 'Thunderclap', 'damage_temp_hp') 37
+('subspell', 'Thunderclap', 'fatal') 11
+('subspell', 'Thunderclap', 'hit') 84
+('subspell', 'Thunderclap', 'miss') 139
+--------------------------------------------------------------------------------
+* Предельная эффективность "Громовых птиц" -- 10 минут догонялок и обстрела.
+paste:2020-07-15_17:39:39
+round end: 100 time: 0.552
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (infantry-legionary) exp 0 hp 469/948 (temp_hp 0/90) (dead 6% disabled 6% captured 0%) fall 32%, injured 0%, light 0%, escape 66% lucky 2%
+dead 6 Warrior 1 lvl (legionary infantry)
+disabled 6 Warrior 1 lvl (legionary infantry)
+fall 2 Warrior 3 lvl (legionary infantry-sergeant)
+fall 2 Warrior 2 lvl (legionary infantry-corporal)
+fall 16 Warrior 1 lvl (legionary infantry)
+('throw', 'Pilum', 'damage') 4
+('throw', 'Pilum', 'hit') 1
+('throw', 'Pilum', 'miss') 1
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (громовые птицы) (враг) exp 1400 hp 332/336 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 8%, escape 0% lucky 92%
+('ranged', 'arrow-feather', 'damage') 328
+('ranged', 'arrow-feather', 'damage_temp_hp') 23
+('ranged', 'arrow-feather', 'fatal') 22
+('ranged', 'arrow-feather', 'hit') 51
+('ranged', 'arrow-feather', 'miss') 701
+('ranged', 'thunder-feather', 'damage') 61
+('ranged', 'thunder-feather', 'fatal') 6
+('ranged', 'thunder-feather', 'hit') 8
+('ranged', 'thunder-feather', 'miss') 112
+('subspell', 'Thunderclap', 'damage') 237
+('subspell', 'Thunderclap', 'damage_temp_hp') 67
+('subspell', 'Thunderclap', 'fatal') 8
+('subspell', 'Thunderclap', 'hit') 94
+('subspell', 'Thunderclap', 'miss') 194
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовые бой] [команда Фарама vs громовые птицы]
+[spoiler][code][noparse]
+* Встреча громовых птиц с вашей бандой, если бы вы приняли бой.
+- Победа в 3 раунда. Лонгин выбивает птичек с лёгкостью, к тому же выбирая целью "офицеров".
+- В стае из 12 птиц только 2 вожака (коими считаются первые две призванные зверюшки). По параметрам от обычных они не отличается, просто игромеханически считаются офицерами, так что их убийство сводит мораль отряда в нули.
+paste:2020-07-15_18:10:16
+round end: 10 time: 0.993
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Band-hero (снайпер Лонгин) (Mordodrukow) exp 200 hp 54/54 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+('ranged', 'Longbow +1', 'damage') 71
+('ranged', 'Longbow +1', 'fatal') 1
+('ranged', 'Longbow +1', 'hit') 3
+('ranged', 'Longbow +1', 'miss') 7
+--------------------------------------------------------------------------------
+BLUEFOR zone_1 Band-hero (жрецы Фарама) (Mordodrukow) exp 200 hp 143/145 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 14%, escape 0% lucky 86%
+('3_lvl', 'Call_Lightning', 'damage') 25
+('3_lvl', 'Call_Lightning', 'fatal') 1
+('3_lvl', 'Call_Lightning', 'hit') 1
+('cantrip', 'Sacred_Flame', 'damage') 7
+('cantrip', 'Sacred_Flame', 'hit') 1
+('cantrip', 'Sacred_Flame', 'miss') 3
+--------------------------------------------------------------------------------
+BLUEFOR zone_2 Band-hero (друиды Патрокла) (Vened) exp 0 hp 47/51 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 33%, escape 0% lucky 67%
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (громовые птицы) (враг) exp 0 hp 254/329 (temp_hp 0/0) (dead 8% disabled 0% captured 0%) fall 17%, injured 0%, light 0%, escape 83% lucky 0%
+dead 1 Громовая птица-вожак (Thunderbird) (CR 1)
+fall 1 Громовая птица-вожак (Thunderbird) (CR 1)
+('ranged', 'thunder-feather', 'miss') 11
+('subspell', 'Thunderclap', 'damage') 10
+('subspell', 'Thunderclap', 'hit') 3
+('subspell', 'Thunderclap', 'miss') 18
+[/noparse][/code][/spoiler]
+
+## Воздушные элементали (CR 5)
+
+[b]Воздушные элементали[/b]: [CR 5]
+
+Те самые, из "Monsters_Manual", как они есть. Теперь и в коде.
+
+[b]Характеристики[/b]:
+- Скорость полёта -- 90 футов;
+- Перезарядка "вихря" -- в среднем каждый 2 раунд;
+- Сопротивляемость обычному оружию, молнии и грому (хай, Фарам)
+
+[b]Тактика врага[/b]:
+- Воздушные элементали обожают атаковать сверху. С их "Вихрем" (whirlwind), который ранит всех существ в пространстве элементаля, это просто идеальные воздушные бомбы.
+- Их лучшей тактикой было бы уходить в "Dodge_Action", пока "Вихрь" перезаряжается, но существа с ИНТ 6 для этого слишком простодушны, они просто ломятся вперёд, ничего не боясь.
+- Тем не менее они достаточно разумны, чтобы выбирать целью скопления пехоты, а не отдельные цели.
+- Боевой потенциал 6 воздушных элементалей равен магу с "полётом" и 2 огненными шарами.
+
+[b]Противодействие[/b]
+- Неплохо показали себя хорошо защищённые и храбрые лучники, вроде "Пиратов", атакующие элементалей в рассеянном строю. Также неплохо отбиваются "штурмовики" с их дротиками и глефами.
+- Хуже всего приходится плотному строю тяжёлой пехоты, вроде "гоплитов", "сариссофоров" и "легионеров". Хотя последние вполне успешно бьют элементалей пилумами.
+- Броня с щитами и "Dodge_Action" против "Вихря" воздушных элементалей нихрена не помогает. Проще всего окружить и расстрелять со всех сторон. Благо, что хоть лечиться они не умеют.
+
+[b]Параметры отряда "Воздушные элементали"[/b]:
+[spoiler][code][noparse]0 Company-regular (воздушные элементали) (нейтрал)
+---Выбор отряда (номер отряда):0
+Air Elemental (CR 5) cost: 0.0 hp: 96 AC: 15 load 0/140
+Air Elemental (CR 5) cost: 0.0 hp: 96 AC: 15 load 0/140
+Air Elemental (CR 5) cost: 0.0 hp: 96 AC: 15 load 0/140
+Air Elemental (CR 5) cost: 0.0 hp: 96 AC: 15 load 0/140
+Air Elemental (CR 5) cost: 0.0 hp: 96 AC: 15 load 0/140
+Air Elemental (CR 5) cost: 0.0 hp: 96 AC: 15 load 0/140
+{'equipment_weight (lb)': 0, 'backpack_weight (lb)': 0, 'property_weight (lb)': 0, 'supply_weight (lb)': 0, 'normal_load (lb)': 840, 'light_load (lb)': 420.0, 'maximum_load (lb)': 1680, 'battle_lightload': False, 'battle_overload': False, 'travel_overload': False, 'base_speed': 540, 'overload_soldiers': 0, 'lightload_soldiers': 0}
+{'equipment_cost': 0, 'property_cost': 0, 'supply_cost': 0, 'spells_cost': 0, 'unit_pay_year': 0}
+Squad Number: 6
+Medial attack_mod: (8, 8.0, 8.0)
+Medial hp: 96.0 Medial AC: 15.0
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовый бой] [мостовики Отто vs воздушные элементали]
+[spoiler][code][noparse]
+* Поражение в течении 20 раундов. Но и элементалям выбили 2/3 хитов.
+- В бою они показали себя на уровне пары-тройки ударов "Огненного шара".
+paste:2020-07-16_03:55:42
+round end: 20 time: 0.526
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (легионеры мостовика Отто) (друг) exp 1800 hp 491/981 (temp_hp 7/42) (dead 8% disabled 12% captured 0%) fall 38%, injured 1%, light 0%, escape 61% lucky 0%
+dead 1 Warrior 2 lvl (legionary infantry-corporal)
+dead 7 Warrior 1 lvl (legionary infantry)
+disabled 1 Warrior 2 lvl (legionary infantry-corporal)
+disabled 12 Warrior 1 lvl (legionary infantry)
+fall 1 Warrior 3 lvl (legionary infantry-sergeant)
+fall 4 Warrior 2 lvl (legionary infantry-corporal)
+fall 14 Warrior 1 lvl (legionary infantry)
+('close', 'Shortsword', 'damage') 139
+('close', 'Shortsword', 'hit') 46
+('close', 'Shortsword', 'miss') 95
+('throw', 'Pilum', 'damage') 199
+('throw', 'Pilum', 'fatal') 1
+('throw', 'Pilum', 'hit') 66
+('throw', 'Pilum', 'miss') 353
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (воздушные элементали) (нейтрал) exp 1325 hp 183/576 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 17%, injured 83%, light 0%, escape 0% lucky 0%
+fall 1 Air Elemental (CR 5)
+('close', 'slam', 'damage') 210
+('close', 'slam', 'damage_temp_hp') 8
+('close', 'slam', 'fatal') 13
+('close', 'slam', 'hit') 16
+('close', 'slam', 'miss') 16
+('close', 'whirlwind', 'hit') 23
+('subspell', 'whirlwind', 'damage') 509
+('subspell', 'whirlwind', 'damage_friend') 55
+('subspell', 'whirlwind', 'damage_temp_hp') 27
+('subspell', 'whirlwind', 'fatal') 28
+('subspell', 'whirlwind', 'hit') 67
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовый бой] [команда Фарама vs воздушные элементали]
+[spoiler][code][noparse]* В данном случае уверенная победа. Лонгин тащит, "Спирит Гарды" помогают.
+- Но, в целом, очень по разному. Если разбросают строй, то могут кого-нибудь убить.
+- Часто ранят Лонгина, потому что здраво выбирают самую опасную цель.
+paste:2020-07-16_03:49:51
+round end: 10 time: 1.197
+BLUEFOR (16, 1) elite_warrior (help_action) >> BLUEFOR, (16, 14), elite_warrior heal (spell): 8
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Band-hero (снайпер Лонгин) (Mordodrukow) exp 1800 hp 54/54 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+('close', 'Scimitar', 'damage') 9
+('close', 'Scimitar', 'hit') 2
+('close', 'Scimitar', 'miss') 4
+('ranged', 'Longbow +1', 'damage') 226
+('ranged', 'Longbow +1', 'fatal') 1
+('ranged', 'Longbow +1', 'hit') 11
+('ranged', 'Longbow +1', 'miss') 3
+--------------------------------------------------------------------------------
+BLUEFOR zone_1 Band-hero (жрецы Фарама) (Mordodrukow) exp 5400 hp 130/151 (temp_hp 0/0) (dead 0% disabled 14% captured 0%) fall 14%, injured 0%, light 0%, escape 0% lucky 86%
+disabled 1 Fighter 2 lvl (Mordodrukow) (темплар Зевса)
+('1_lvl', 'Thunderwave', 'damage') 17
+('1_lvl', 'Thunderwave', 'hit') 5
+('2_lvl', 'Shatter', 'damage') 64
+('2_lvl', 'Shatter', 'damage_friend') 12
+('2_lvl', 'Shatter', 'hit') 11
+('aura', 'Spirit_Guardians', 'damage') 121
+('aura', 'Spirit_Guardians', 'fatal') 2
+('aura', 'Spirit_Guardians', 'hit') 13
+('cantrip', 'Sacred_Flame', 'miss') 17
+('close', 'Longsword +1', 'damage') 24
+('close', 'Longsword +1', 'fatal') 1
+('close', 'Longsword +1', 'hit') 2
+--------------------------------------------------------------------------------
+BLUEFOR zone_2 Band-hero (друиды Патрокла) (Vened) exp 0 hp 50/50 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (воздушные элементали) (нейтрал) exp 100 hp 103/576 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 67%, injured 17%, light 17%, escape 0% lucky 0%
+fall 4 Air Elemental (CR 5)
+('close', 'whirlwind', 'hit') 2
+('subspell', 'whirlwind', 'damage') 29
+('subspell', 'whirlwind', 'damage_friend') 26
+('subspell', 'whirlwind', 'fatal') 1
+('subspell', 'whirlwind', 'hit') 9
+[/noparse][/code][/spoiler]
+
+## Земляные элементали (CR 5)
+
+[b]Земляные элементали[/b]: [CR 5]
+
+Которые из "Monsters_Manual", как они есть.
+
+[b]Характеристики[/b]:
+- Скорость движение -- 30 футов (в том числе и под землёй);
+- Сопротивляемость обычному оружию.
+- Уязвимость к грому (хай, Фарам)
+- Живучесть: 17 AC и 132 hp.
+
+[b]Тактика врага[/b]:
+- Они наносят удвоенный урон сооружениям. За минуту способны проломить частокол. За 5 минут каменную крепостную стену. Очень быстро ломают стоящие на берегу корабли.
+- Зная это, враг будет призывать элементалей за 1200 футов от стены, или от стоянки кораблей. Дальше они пойдут под землёй. В том числе и подо дном реки/моря.
+- Элементали под "Dodge_Action" с их 17 AC великолепно защищены от стрел и снарядов лёгких баллист. Тяжёлые баллисты будут эффективны, потому что спасброски ловкости у элементалей минусовые.
+- Это танки, штурмовые танки. В отличии от воздушных элементалей у них нет бьющей по группе солдат атаки, зато масса брони и уйма хитов. К тому же они могут двигаться под землёй. В бою их живучесть вдвое выше, чем у воздушных элементалей.
+- По силе 6 элементалей сравнимы с сотней бойцов регулярной армии. Они доставят вам уйму проблем.
+
+[b]Возможности врага[/b]:
+- Элементали способны утащить 2400 lb груза, что сравнимо с 48 бочками огнесмеси, какие кидали онагры, или 12 бочками, какими осьминожки Ианты жгли корабли. Взрыв огнесмеси не нанесёт самому элементалю большого вреда, а вот людей вокруг — покалечит. Земляные элементали могут нести грузы в том числе и передвигаясь под землёй.
+- Земляных элементалей умеет призывать не только друид Акхен (дважды в день, за счёт восстановления заклинаний "круга земли"), но и колдун Чара, осаждающий Илион (раз в сутки, с помощью инвокации "Слуги хаоса").
+
+[b]Противодействие[/b]
+- Только ветераны Гая Юлия (отряд нового типа) способны сражаться с земляными элементалями в ближнем бою, не неся недопустимых потерь. Если у ветеранов будут баллисты, они смогут поражать элементалей как на дистанции, так и защитить осадные орудия, если враг подберётся под землёй.
+- Кроме того Фарам со свитой отлично справляются. Уязвимость к грому, все дела. Лонгин, опять же, замечательно снайперит. Проблема лишь в том, что земляные элементали легко прячутся под землёй, чтобы спустя минуты атаковать в другом месте.
+- "Громовые птицы" неплохо контрят земляных элементалей. Два отряда громоптичек за пару минут боя выбивают отряду элементалей половину хитов. А с их скоростью в 300 футов/раунд птицы меньше чем за минуту доберутся до любой точки поля боя. К сожалению, "Призыв малых элементалей" (Conjure_Minor_Elementals) требует минуты — есть риск опоздать.
+
+[b]Параметры отряда "Земляные элементали"[/b]:
+[spoiler][code][noparse]
+0 Company-regular (земляные элементали) (призванные)
+---Выбор отряда (номер отряда):
+Earth Elemental (CR 5) cost: 0.0 hp: 132 AC: 17 load 0/200
+Earth Elemental (CR 5) cost: 0.0 hp: 132 AC: 17 load 0/200
+Earth Elemental (CR 5) cost: 0.0 hp: 132 AC: 17 load 0/200
+Earth Elemental (CR 5) cost: 0.0 hp: 132 AC: 17 load 0/200
+Earth Elemental (CR 5) cost: 0.0 hp: 132 AC: 17 load 0/200
+Earth Elemental (CR 5) cost: 0.0 hp: 132 AC: 17 load 0/200
+{'equipment_weight (lb)': 0, 'backpack_weight (lb)': 0, 'property_weight (lb)': 0, 'supply_weight (lb)': 0, 'normal_load (lb)': 1200, 'light_load (lb)': 600.0, 'maximum_load (lb)': 2400, 'battle_lightload': False, 'battle_overload': False, 'travel_overload': False, 'base_speed': 180, 'overload_soldiers': 0, 'lightload_soldiers': 0}
+{'equipment_cost': 0, 'property_cost': 0, 'supply_cost': 0, 'spells_cost': 0, 'unit_pay_year': 0}
+Squad Number: 6
+Medial attack_mod: (8, 8.0, 8.0)
+Medial hp: 132.0 Medial AC: 17.0
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовый бой] [земляные элементали разрушают частокол]
+[spoiler][code][noparse]
+* Справляются за минуту.
+- У 10-футового сегмента частокола 15 AC, 60 hp и порог урона 20.
+paste:2020-07-17_16:33:02
+round end: 10 time: 0.475
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (земляные элементали) (призванные) exp 0 hp 792/792 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+('close', 'slam', 'damage') 344
+('close', 'slam', 'fatal') 3
+('close', 'slam', 'hit') 54
+('close', 'slam', 'miss') 14
+('reach', 'slam', 'damage') 58
+('reach', 'slam', 'hit') 10
+('reach', 'slam', 'miss') 4
+--------------------------------------------------------------------------------
+OPFOR zone_5 частокол exp 0 hp 120/300 (temp_hp 0/0) (dead 60% disabled 0% captured 0%) fall 60%, injured 0%, light 0%, escape 0% lucky 40%
+dead 3 Palisade (wood)
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовый бой] [земляные элементали разрушают крепостную стену]
+[spoiler][code][noparse]
+* Пролом делают за 5 минут.
+- Десять онагров ломают участок за 30 минут.
+- У 10-футового сегмента крепостной стены 17 AC, 120 hp и порог урона 30.
+- Зная это, враг будет призывать элементалей за 1200 футов от стены. Дальше они пойдут под землёй. В том числе и подо дном реки/моря.
+paste:2020-07-17_16:38:23
+round end: 50 time: 0.482
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (земляные элементали) (призванные) exp 0 hp 792/792 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+('close', 'slam', 'damage') 348
+('close', 'slam', 'fatal') 1
+('close', 'slam', 'hit') 221
+('close', 'slam', 'miss') 155
+('reach', 'slam', 'damage') 135
+('reach', 'slam', 'fatal') 1
+('reach', 'slam', 'hit') 75
+('reach', 'slam', 'miss') 111
+--------------------------------------------------------------------------------
+OPFOR zone_5 крепостная стена exp 0 hp 257/600 (temp_hp 0/0) (dead 0% disabled 40% captured 0%) fall 40%, injured 0%, light 40%, escape 0% lucky 20%
+disabled 2 Wall (stone)
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовый бой] [земляные элементали vs ветераны Гая Юлия]
+[spoiler][code][noparse]
+* Отряд ветеранов требует 2 капитанов (дающих отряду 40k exp) И 200 эфесов на снаряжение.
+- Было бы неплохо, если бы наши ветераны могли взять кирки специально против земляных элементалей. Но, к сожалению, они не "универсальные солдаты". Поэтому страдают с короткими мечами, но побеждают всё-таки.
+paste:2020-07-17_14:15:57
+round end: 50 time: 0.681
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (ветераны Гая Юлия) (Katorjnik) exp 5400 hp 1075/1391 (temp_hp 90/180) (dead 2% disabled 8% captured 0%) fall 16%, injured 7%, light 2%, escape 0% lucky 75%
+dead 2 Warrior 2 lvl (Katorjnik) (ветеран) (кольчуга)
+disabled 1 Warrior 3 lvl (Katorjnik) (урагос)
+disabled 2 Warrior 2 lvl (Katorjnik) (ветеран) (кольчуга)
+disabled 5 Warrior 2 lvl (Katorjnik) (ветеран)
+fall 1 Warrior 4 lvl (Katorjnik) (опцион)
+fall 2 Warrior 2 lvl (Katorjnik) (ветеран) (кольчуга)
+fall 3 Warrior 2 lvl (Katorjnik) (ветеран)
+('close', 'Shortsword', 'damage') 575
+('close', 'Shortsword', 'fatal') 3
+('close', 'Shortsword', 'hit') 189
+('close', 'Shortsword', 'miss') 746
+('throw', 'Pilum', 'damage') 149
+('throw', 'Pilum', 'hit') 45
+('throw', 'Pilum', 'miss') 504
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (земляные элементали) (призванные) exp 1200 hp 72/792 (temp_hp 0/0) (dead 33% disabled 0% captured 0%) fall 50%, injured 50%, light 0%, escape 0% lucky 0%
+dead 2 Earth Elemental (CR 5)
+fall 1 Earth Elemental (CR 5)
+('close', 'slam', 'damage') 496
+('close', 'slam', 'damage_temp_hp') 90
+('close', 'slam', 'fatal') 18
+('close', 'slam', 'hit') 41
+('close', 'slam', 'miss') 133
+[/noparse][/code][/spoiler]
+
+[b]Итоги боя[/b]: [тестовый бой] [земляные элементали vs громовые птицы]
+[spoiler][code][noparse]
+* Хорошо отстрелялись. 25% хитов как не бывало, один элементаль сдох.
+- Два отряда птичек справились бы ещё лучше. И размен 2 слотов заклинаний 4 круга на один вражеский слот 5 круга, это неплохой размен. Тем более, что птицы ещё 8 минут будут летать и стрелять.
+paste:2020-07-17_14:27:35
+round end: 20 time: 0.697
+--------------------------------------------------------------------------------
+BLUEFOR zone_0 Company-regular (земляные элементали) (призванные) exp 0 hp 594/792 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 17%, injured 0%, light 33%, escape 0% lucky 50%
+fall 1 Earth Elemental (CR 5)
+--------------------------------------------------------------------------------
+OPFOR zone_5 Company-regular (громовые птицы) (призванные) exp 1800 hp 340/340 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 0%, escape 0% lucky 100%
+('ranged', 'arrow-feather', 'damage') 30
+('ranged', 'arrow-feather', 'hit') 10
+('ranged', 'arrow-feather', 'miss') 95
+('ranged', 'thunder-feather', 'damage') 74
+('ranged', 'thunder-feather', 'fatal') 1
+('ranged', 'thunder-feather', 'hit') 23
+('ranged', 'thunder-feather', 'miss') 97
+('subspell', 'Thunderclap', 'damage') 94
+('subspell', 'Thunderclap', 'hit') 15
+('subspell', 'Thunderclap', 'miss') 105
+[/noparse][/code][/spoiler]
