@@ -82,7 +82,7 @@
 
 [b]Копилка богатств[/b]: 230 эфес монет (2019 эфес всего, 6300 эфес запасов)
 [spoiler]
-Корабли и запасы: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-transport-and-gears.md[/link]
+Цены товаров: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/world-economy-prices-and-piracy.md[/link]
 Магические предметы: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-magic-items.md[/link]
 Руны и эссенции: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-runes.md[/link]
 [code]
@@ -550,7 +550,6 @@
 [b]Базовые отряды[/b] [снаряжение: 140-160 эфесов, триера: +60 эфс, обучение: 10 400 exp]:
 [spoiler]
 Базовые отряды: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-base.md[/link]
-Корабли и запасы: [link]https://github.com/Shadybloom/sea-tribes/blob/master/docs/rules-squad-transport-and-gears.md[/link]
 Иллюстрация: [link]https://raw.githubusercontent.com/Shadybloom/sea-tribes/master/images/squads.png[/link]
 [img]https://raw.githubusercontent.com/Shadybloom/sea-tribes/master/images/squads.png[/img]
 ● №01 [b]Лучники[/b] [160 эфс, 12 эфс/месяц] (персы, скифы). Исключительно эффективны, если займут хорошую позицию для стрельбы (стена, склон холма, крыши). Могут обстреливать невидимого врага навесом, «Градом стрел», при этом дальность стрельбы 600 футов (12 клеток поля боя, два хода пехоты). Защитного снаряжения не имеют, потому что все средства вкладывают в лучшие луки и стрелы. Со 2 lvl могут стать снайперами за счёт боевого стиля. Отряд лучников в чистом поле запросто уничтожает 4 отряда копейщиков ополчения, поразив 250 целей (~2700 exp).  
