@@ -1,7 +1,5 @@
 # Памятка боцману
 
-![Рисунок](/black-flags/images/Loutherbourg-Spanish_Armada.jpg)
-
 Бойцов обучают [лейтенанты](/black-flags/docs/rules-squad-lieutenants.md). Чем больше у вас лейтенантов, тем опытнее экипаж.  
 
 №  | Бойцы      | exp    | lvl  | CR  | Эфес | Что умеют
@@ -178,6 +176,8 @@
 ## Тактические приёмы
 
 Использование навыков разобрано в разделе "Действия героев" статьи о [морских сражениях](/black-flags/docs/rules-squad-naval-battle.md). Здесь же сосредоточимся на грамотном абордаже и сухопутных боях.  
+
+![Рисунок](/black-flags/images/Loutherbourg-Spanish_Armada.jpg)
 
 ### Абордаж
 
