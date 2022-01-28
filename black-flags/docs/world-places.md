@@ -315,45 +315,29 @@ https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_et_Accuratissima_Terrar
 Africa. Dutch Colonial Remains 16th-18th centuries  
 https://www.colonialvoyage.com/africa-dutch-colonial-remains-16th-18th-centuries/  
 
-Аджуран:
 [0]:https://ru.wikipedia.org/wiki/Аджуран_(государство)
-Остров Сокотра:  
 [1]:https://www.instantstreetview.com/@12.465656,54.003167,284.12h,22.51p,0z
 [2]:https://en.wikipedia.org/wiki/Ajuran_Sultanate#Ajuran-Portuguese_wars
-Город Рас Хафун:  
 [3]:http://wikimapia.org/#lang=en&lat=10.331132&lon=52.536621&z=7&m=w&show=/24890535/Raas-Hafun
-Город Могадишо:  
 [4]:https://ru.wikipedia.org/wiki/Султанат_Могадишо
 [5]:http://wikimapia.org/#lang=en&lat=2.053660&lon=45.365295&z=12&m=bh&show=/83291/Mogadishu
-Река Джуба:  
 [6]:http://wikimapia.org/#lang=en&lat=-0.246505&lon=42.637939&z=10&m=bh&show=/11858034/Juba-Delta-Estuary
-[7]:https://en.wikipedia.org/wiki/Jubba_River  
-Город Момбаса:  
+[7]:https://en.wikipedia.org/wiki/Jubba_River
 [8]:http://wikimapia.org/#lang=en&lat=-4.050063&lon=39.666653&z=13&m=w&show=/1412235/Mombasa
 [9]:https://www.colonialvoyage.com/fort-jesus-mombasa/
 [10]:http://wikimapia.org/#lang=en&lat=-2.711923&lon=40.196915&z=11&m=w&show=/8814303/Tana-River-Delta
-Острова Занзибара:
 [11]:http://wikimapia.org/#lang=en&lat=-6.730076&lon=42.066650&z=7&m=w&show=/9180899/Pemba
 [12]:http://wikimapia.org/#lang=en&lat=-6.533645&lon=40.660400&z=7&m=w&show=/1121293/Zanzibar-Island
 [13]:http://wikimapia.org/#lang=en&lat=-7.939556&lon=40.880127&z=7&m=w&show=/9180778/Mafia-Island
-Город Килва:
 [14]:http://wikimapia.org/#lang=en&lat=-8.836223&lon=39.874878&z=8&m=w&show=/1030405/Kilwa-Kisiwani-UNESCO-World-Heritage-Site-
-Город Мозамбик:
 [15]:http://wikimapia.org/#lang=en&lat=-15.038887&lon=40.741167&z=14&m=w
-Коморские острова:
 [16]:http://wikimapia.org/#lang=en&lat=-12.355681&lon=43.674710&z=16&m=bh&show=/5876731/Cimetiere
-Остров Альдабра:
 [17]:http://wikimapia.org/#lang=en&lat=-9.210560&lon=46.452942&z=9&m=w&show=/1726451/Aldabra-atoll-UNESCO-World-Heritage-Site
-Сейшильские острова:
 [18]:https://www.instantstreetview.com/@-4.467634,55.226043,273.36h,-3.88p,1z
-Атолл провидение:
 [19]:http://wikimapia.org/#lang=en&lat=-9.491054&lon=51.193542&z=9&m=bh&show=/2462109/Providence-Atoll
-Мадагаскар:
 [20]:http://wikimapia.org/#lang=en&lat=-12.197087&lon=49.499588&z=11&m=bh&show=/19029838/Antsiranana-Bay
-Сен-Мари:
 [21]:http://wikimapia.org/#lang=en&lat=-17.007381&lon=49.848490&z=14&m=bh&show=/18989895/fr/Lac-Ilot-Madame
 [22]:http://wikimapia.org/#lang=hu&lat=-15.693864&lon=49.670563&z=13&m=bh
-Маскаренские острова:
 [23]:http://wikimapia.org/#lang=en&lat=-21.504186&lon=57.019043&z=7&m=w&show=/7637217/R%C3%A9union
 [24]:http://wikimapia.org/#lang=en&lat=-19.715000&lon=59.040527&z=7&m=w&show=/8058951/Mauritius-Island
 [25]:http://wikimapia.org/#lang=en&lat=-19.145168&lon=61.940918&z=7&m=w&show=/992610/Rodrigues-(Mauritius)
