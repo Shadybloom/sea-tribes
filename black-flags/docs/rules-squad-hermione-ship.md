@@ -1,8 +1,8 @@
 # Памятка казначею
 
-![Трюм корабля](/black-flags/images/ship-hold.png)
+![Трюм корабля](/black-flags/images/ship-hold.jpg)
 
-Корабельные припасы в [отдельном списке](/black-flags/docs/world-hermione-stats.txt). Также есть [список цен](/black-flags/docs/world-economy-prices.md) товаров.
+Корабельные припасы в [отдельном списке](https://raw.githubusercontent.com/Shadybloom/sea-tribes/master/black-flags/docs/world-hermione-stats.txt). Также есть [список цен](/black-flags/docs/world-economy-prices.md) товаров.
 
 ## Ремонтные работы
 

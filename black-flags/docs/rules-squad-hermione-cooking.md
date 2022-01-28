@@ -1,7 +1,5 @@
 # Памятка коку
 
-![Рисунок](/black-flags/images/Still_Life_with_Musical_Instruments.jpg)
-
 Начнём с того, что после капитана, кок — самый уважаемый человек.  
 
 ## Провиант
