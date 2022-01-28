@@ -2,7 +2,7 @@
 
 ![Трюм корабля](/images/ship-hold.png)
 
-Корабельные припасы в [отдельном списке](/docs/world-hermione-stats.txt). Также есть [список цен](/docs/world-economy-prices.md) товаров.
+Корабельные припасы в [отдельном списке](/black-flags/docs/world-hermione-stats.txt). Также есть [список цен](/black-flags/docs/world-economy-prices.md) товаров.
 
 ## Ремонтные работы
 

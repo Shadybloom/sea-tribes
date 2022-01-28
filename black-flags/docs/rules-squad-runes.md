@@ -52,4 +52,4 @@ d6  | 1 круг             | Заклинание   |  Свойства       
 
 ## Создание рун
 
-Как и все [волшебные предметы](rules-squad-magic-items-manufacture.md).
+Как и все [волшебные предметы](/black-flags/docs/rules-squad-magic-items-manufacture.md).
