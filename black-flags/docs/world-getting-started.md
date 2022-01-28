@@ -1,6 +1,6 @@
 # Чёрные флаги Ост-Индии
 
-![Рисунок](/images/Pieter_Claeszoon_-_Vanitas.JPG)
+![Рисунок](/black-flags/images/Pieter_Claeszoon_-_Vanitas.JPG)
 
 ## Офицеры
 

@@ -1,6 +1,6 @@
 # Памятка коку
 
-![Рисунок](/images/Still_Life_with_Musical_Instruments.jpg)
+![Рисунок](/black-flags/images/Still_Life_with_Musical_Instruments.jpg)
 
 Начнём с того, что после капитана, кок — самый уважаемый человек.  
 

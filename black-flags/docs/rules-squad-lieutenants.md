@@ -1,6 +1,6 @@
 # Офицеры
 
-![Тульпаномания](/images/Persiflage_auf_die_Tulpomanie.jpg)
+![Тульпаномания](/black-flags/images/Persiflage_auf_die_Tulpomanie.jpg)
 
 Вы получаете лейтенанта за каждые 10 тысяч опыта героя. Лейтенанты отвечают за обучение отряда, передавая ему свой опыт.  
 

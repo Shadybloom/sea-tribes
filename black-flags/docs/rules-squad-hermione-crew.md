@@ -1,6 +1,6 @@
 # Памятка боцману
 
-![Рисунок](/images/Loutherbourg-Spanish_Armada.jpg)
+![Рисунок](/black-flags/images/Loutherbourg-Spanish_Armada.jpg)
 
 Бойцов обучают [лейтенанты](/black-flags/docs/rules-squad-lieutenants.md). Чем больше у вас лейтенантов, тем опытнее экипаж.  
 

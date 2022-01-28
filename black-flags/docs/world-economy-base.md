@@ -1,6 +1,6 @@
 # Экономика
 
-![Рисунок](/images/Jan_de_Bray_002.jpg)
+![Рисунок](/black-flags/images/Jan_de_Bray_002.jpg)
 
 ## Экономика мира
 
@@ -130,7 +130,7 @@ d12 | Страны востока (1700 г.) | Население | Армия |
 
 Исследование "[Wages, prices, and living standards in China, 1738–1925: in comparison with Europe, Japan, and India][2]"
 
-![подневные-зарплаты-в-граммах-серебра](/images/daily-wages-in-gramms-of-silver.gif)
+![подневные-зарплаты-в-граммах-серебра](/black-flags/images/daily-wages-in-gramms-of-silver.gif)
 
 Зарплаты в городах:  
 
@@ -143,7 +143,7 @@ d12 | Страны востока (1700 г.) | Население | Армия |
 5  | Киото        | Япония     | 1769 | 0.11     | 0.37
 6  | -            | Китай      | 1769 | 0.04-0.2 | 0.2-1
 
-![стоимость-прожиточного-минимума-в-граммах-серебра](/images/daily-wages-in-gramms-of-silver.gif)
+![стоимость-прожиточного-минимума-в-граммах-серебра](/black-flags/images/daily-wages-in-gramms-of-silver.gif)
 
 Прожиточный минимум, Китай (5 gp/год, 0.1 эфес/год):  
 

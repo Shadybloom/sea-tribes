@@ -1,6 +1,6 @@
 # Персонажи
 
-![Рисунок](/images/Zamorin_of_Calicut.jpg)
+![Рисунок](/black-flags/images/Zamorin_of_Calicut.jpg)
 
 Путеводитель по всем сволочам мира.
 

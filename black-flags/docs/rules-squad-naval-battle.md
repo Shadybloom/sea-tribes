@@ -1,6 +1,6 @@
 # Морской бой
 
-![Рисунок Фэнси](/images/46-gun_Mordaunt.jpg)
+![Рисунок Фэнси](/black-flags/images/46-gun_Mordaunt.jpg)
 
 ## Типы кораблей
 

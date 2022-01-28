@@ -2,7 +2,7 @@
 
 ## Ост-Индийские корабли
 
-![Рисунок](/images/East_Indiamen_in_a_Gale.jpg)
+![Рисунок](/black-flags/images/East_Indiamen_in_a_Gale.jpg)
 
 ## Предисловие
 
