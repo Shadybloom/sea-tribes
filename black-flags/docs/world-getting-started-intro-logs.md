@@ -71,7 +71,9 @@ actions: {('action', 'Reload_Action_Success'): 99, ('action', 'Weapon_Attack'): 
 ○ OPFOR zone_6 Ганг рангоут exp 0 hp 2804/2860 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 0%, light 9%, escape 0% lucky 91%
 --------------------------------------------------------------------------------
 ○ OPFOR zone_9 Ганг паруса основные exp 0 hp 1786/2025 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 6%, light 65%, escape 0% lucky 29%
+```
 
+```
 round end: 100 time: 1.943
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_1 Фэнси паруса основные exp 0 hp 1804/2025 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 6%, injured 0%, light 53%, escape 0% lucky 41%
@@ -179,7 +181,9 @@ damage_sum: 426 damage_per_hit: 21.3 hits_per_round: 7 hit_per_attack: 0.24 dama
 loss: {'12lb Ball': 108, 'Muskete Bullet': 49, 'Rune of Armor': 12, '12lb Bar': 6, '12lb Cannon, naval': 4}
 traumas: {'Незначительный шрам': 3}
 actions: {('reaction', 'Protect_Commander'): 1, ('action', 'Dash_Action'): 1, ('action', 'Help_Action_First_Aid'): 3, ('free_action', 'On_Knee'): 44, ('action', 'Reload_Action_Success'): 122, ('action', 'Weapon_Attack'): 157, ('action', 'Dodge_Action'): 275, ('action', 'Reload_Action_False'): 829, ('action', 'Help_Action_Reload'): 2940}
+```
 
+```
 round end: 3 time: 1.183
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_0 Фэнси борт опендека exp 0 hp 4686/4950 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 7%, injured 3%, light 0%, escape 0% lucky 90%
@@ -212,7 +216,9 @@ dead 3 6lb Cannon, chassis
 damage_sum: 532 damage_per_hit: 76.0 hits_per_round: 2 hit_per_attack: 0.12 damage_per_round: 177
 loss: {'6lb Ball': 156, 'Muskete Bullet': 53, 'Rune of Armor': 12, '6lb Cannon, naval': 3}
 actions: {('reaction', 'Protect_Commander'): 2, ('free_action', 'On_Knee'): 47, ('action', 'Reload_Action_Success'): 162, ('action', 'Weapon_Attack'): 203, ('action', 'Dodge_Action'): 228, ('action', 'Reload_Action_False'): 756, ('action', 'Help_Action_Reload'): 2983}
+```
 
+```
 round end: 3 time: 1.959
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_0 Фэнси борт опендека exp 0 hp 4561/4770 (temp_hp 10/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 11%, light 0%, escape 0% lucky 89%
@@ -327,7 +333,9 @@ actions: {('free_action', 'On_Knee'): 50, ('action', 'Reload_Action_Success'): 1
 ○ OPFOR zone_5 Ганг корма exp 0 hp 50/510 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 75%, injured 0%, light 25%, escape 0% lucky 0%
 fall 1 Ship frigate (руль)
 fall 2 Ship frigate (обшивка борта)
+```
 
+```
 round end: 10 time: 1.176
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_1 Фэнси батарея фальконет exp 0 hp 376/557 (temp_hp 112/145) (dead 3% disabled 0% captured 0%) fall 19%, injured 9%, light 3%, escape 12% lucky 56%
@@ -480,7 +488,9 @@ damage_sum: 72 damage_per_hit: 10.3 hits_per_round: 2 hit_per_attack: 0.19 damag
 loss: {'2lb Ball': 308, 'Muskete Bullet': 111, 'Rune of Armor': 14, '2lb Falconet': 6, 'Rune of Shielding': 5, 'Pistol, Lorenzony': 4, 'Pistol': 2}
 traumas: {'Сломанные рёбра': 3, 'Ужасный шрам': 2, 'Незначительный шрам': 2, 'Потеря ноги или ступни': 1, 'Внутренняя травма': 1}
 actions: {('action', 'Dash_Action'): 1, ('reaction', 'Spellcast'): 5, ('action', 'Help_Action_First_Aid'): 21, ('reaction', 'Protect_Commander'): 27, ('free_action', 'On_Knee'): 115, ('action', 'Reload_Action_Success'): 356, ('action', 'Weapon_Attack'): 413, ('action', 'Reload_Action_False'): 540, ('action', 'Dodge_Action'): 586, ('action', 'Help_Action_Reload'): 3093}
+```
 
+```
 round end: 48 time: 0.504
 --------------------------------------------------------------------------------
 ● BLUEFOR zone_1 Фэнси батарея гандека exp 2450 hp 747/994 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 2%, injured 17%, light 10%, escape 0% lucky 71%
@@ -517,7 +527,9 @@ damage_sum: 155 damage_per_hit: 11.9 hits_per_round: 0 hit_per_attack: 0.12 dama
 loss: {'Muskete Bullet': 158, '12lb Ball': 109, 'Rune of Armor': 24, '12lb Bar': 7, 'Pistol': 6, '12lb Cannon, naval': 5, 'Smoke Grenade': 1, 'Shortsword': 1, 'Leather Armor': 1}
 traumas: {'Незначительный шрам': 6, 'Гноящаяся рана': 5, 'Внутренняя травма': 4, 'Сломанные рёбра': 4, 'Ужасный шрам': 3}
 actions: {('action', 'Help_Action_Transfer_Ammo'): 1, ('reaction', 'Protect_Commander'): 6, ('action', 'Help_Action_First_Aid'): 26, ('reaction', 'Protect_Injured'): 33, ('free_action', 'On_Knee'): 140, ('action', 'Reload_Action_Success'): 186, ('action', 'Dash_Action'): 201, ('action', 'Weapon_Attack'): 247, ('action', 'Dodge_Action'): 742, ('action', 'Reload_Action_False'): 886, ('action', 'Help_Action_Reload'): 2648}
+```
 
+```
 round end: 50 time: 0.764
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_1 Фэнси батарея опендека exp 1250 hp 574/867 (temp_hp 0/0) (dead 2% disabled 0% captured 0%) fall 10%, injured 12%, light 4%, escape 10% lucky 62%
@@ -551,7 +563,9 @@ damage_sum: 342 damage_per_hit: 12.7 hits_per_round: 1 hit_per_attack: 0.08 dama
 loss: {'Muskete Bullet': 377, '6lb Ball': 156, 'Rune of Armor': 24, '6lb Cannon, naval': 3, 'Pistol': 1}
 traumas: {'Внутренняя травма': 2, 'Гноящаяся рана': 2, 'Потеря глаза': 1, 'Потеря ноги или ступни': 1, 'Незначительный шрам': 1, 'Ужасный шрам': 1}
 actions: {('action', 'Help_Action_First_Aid'): 6, ('reaction', 'Protect_Commander'): 10, ('reaction', 'Protect_Injured'): 16, ('action', 'Help_Action_Transfer_Ammo'): 36, ('action', 'Dash_Action'): 36, ('free_action', 'On_Knee'): 220, ('action', 'Reload_Action_Success'): 345, ('action', 'Weapon_Attack'): 459, ('action', 'Reload_Action_False'): 928, ('action', 'Dodge_Action'): 1616, ('action', 'Help_Action_Reload'): 2983}
+```
 
+```
 round end: 100 time: 0.504
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_1 Фэнси батарея гандека exp 3400 hp 611/964 (temp_hp 0/0) (dead 2% disabled 2% captured 0%) fall 8%, injured 2%, light 6%, escape 31% lucky 53%
@@ -606,7 +620,9 @@ loss: {'Muskete Bullet': 405, '6lb Ball': 160, 'Rune of Armor': 24, '6lb Cannon,
 traumas: {'Гноящаяся рана': 6, 'Ужасный шрам': 4, 'Сломанные рёбра': 4, 'Незначительный шрам': 3, 'Внутренняя травма': 1}
 actions: {('reaction', 'Spellcast'): 1, ('reaction', 'Protect_Commander'): 10, ('reaction', 'Protect_Injured'): 20, ('action', 'Help_Action_First_Aid'): 28, ('action', 'Help_Action_Transfer_Ammo'): 34, ('action', 'Dash_Action'): 194, ('free_action', 'On_Knee'): 256, ('action', 'Reload_Action_Success'): 351, ('action', 'Weapon_Attack'): 487, ('action', 'Reload_Action_False'): 942, ('action', 'Dodge_Action'): 1575, ('action', 'Help_Action_Reload'): 2683}
 ---Сохраняем исход боя? (y/n)y
+```
 
+```
 round end: 3 time: 0.876
 --------------------------------------------------------------------------------
 ○ BLUEFOR zone_1 Фэнси батарея гандека exp 3000 hp 611/848 (temp_hp 0/0) (dead 0% disabled 0% captured 0%) fall 0%, injured 21%, light 11%, escape 2% lucky 66%
@@ -944,7 +960,9 @@ damage_sum: 4144 damage_per_hit: 6.5 hits_per_round: 32 hit_per_attack: 0.45 dam
 loss: {'Poison Blade': 686, 'Poison Arrow': 223, 'Potion of Antidote': 95, 'Potion of Heroism': 95, 'Rune of Armor': 92, 'Shield': 20, 'Rune of Shielding': 16, 'Longbow': 15, 'Glaive': 14, 'Sabre +1': 10, 'Sabre': 2}
 traumas: {'Незначительный шрам': 12, 'Гноящаяся рана': 11, 'Ужасный шрам': 9, 'Внутренняя травма': 5, 'Сломанные рёбра': 5, 'Хромота': 4, 'Потеря ноги или ступни': 2, 'Потеря глаза': 2, 'Потеря руки или ладони': 2}
 actions: {('reaction', 'Feat_Defensive_Duelist'): 9, ('reaction', 'Spellcast'): 16, ('action', 'Disarm_Shield'): 19, ('action', 'Help_Action_Loot_Enemy'): 22, ('action', 'Prone_Enemy'): 29, ('action', 'Disengage_Action'): 36, ('action', 'Disarm_Weapon'): 44, ('action', 'Grapple'): 63, ('reaction', 'Protect_Commander'): 81, ('action', 'Dash_Action'): 95, ('action', 'Dodge_Action'): 156, ('action', 'Help_Action_Transfer_Ammo'): 165, ('reaction', 'Weapon_Attack'): 210, ('action', 'Help_Action_First_Aid'): 243, ('action', 'Weapon_Attack'): 663}
+```
 
+```
 round end: 15 time: 0.403
 --------------------------------------------------------------------------------
 ● BLUEFOR zone_0 Single-hero (лично Эвери) (друг) exp 10000 hp 2/120 (temp_hp 0/3) (dead 0% disabled 0% captured 0%) fall 0%, injured 100%, light 0%, escape 0% lucky 0%
