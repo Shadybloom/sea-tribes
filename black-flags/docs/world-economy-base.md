@@ -178,7 +178,5 @@ d12 | Страны востока (1700 г.) | Население | Армия |
 
 ## Ссылки и заметки
 
-[1]:https://en.wikipedia.org/wiki/List_of_countries_by_population_in_1700)
-[2]:https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0289.2010.00515.x
-[3]:https://en.wikipedia.org/wiki/Gini_coefficient
-
+[1]:https://en.wikipedia.org/wiki/List_of_countries_by_population_in_1700)  
+[2]:https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0289.2010.00515.x  
