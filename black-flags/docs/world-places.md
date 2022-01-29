@@ -104,6 +104,7 @@
 >On 16 May the Sultan abandoned Mombasa and became a pirate. On 5 August 1632 a small Portuguese force under the captain Pedro Rodrigues Botelho, who had remained in Zanzibar, reoccupied the fort.  
 >From 13 March 1696 the fort was under siege, the fort having a garrison of 50-70 Portuguese soldiers and several hundred loyal Coast Arabs.  
 >https://www.colonialvoyage.com/fort-jesus-mombasa/  
+>https://ru.wikisource.org/wiki/ЭСБЕ/Момбас  
 
 ```
 Правитель: Букза Ола, друид 11 lvl, круг земли: побережье.
@@ -127,6 +128,9 @@
 - Город Шангани на Занзибаре, это торговая столица региона. По местным меркам остров очень густо населён, он даже зерном себя полностью не обеспечивает и зависит от поставок с побережья.  
 - Сфинкс Кианат живёт на Пембе. Там же кошачье убежище, куда прибывает Белохвостая, чтобы всё награбленное нами со товарищи в Европу пересылать.  
 - Оманцы в близлежащих водах лютуют бешено: скоро от Цейлона флот пряностей пойдёт.  
+
+>https://ru.wikisource.org/wiki/ЭСБЕ/Занзибар  
+>https://ru.wikisource.org/wiki/ЭСБЕ/Пемба  
 
 ```
 Правитель: Кианат Третья, сфинкс, волшебница 9 lvl.
