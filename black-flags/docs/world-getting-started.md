@@ -1,10 +1,12 @@
 # Чёрные флаги Ост-Индии
 
+Вы начинаете героями 5 lvl, во время [абордажа Ганг-и-Савая](/black-flags/docs/world-getting-started-intro.md) получившими этот уровень. Выбирайте свою должность из списка ниже, а затем воспользуйтесь [карточкой персонажа](https://raw.githubusercontent.com/Shadybloom/sea-tribes/master/black-flags/docs/world-hero-example.txt).   
+
 ![Рисунок](/black-flags/images/Pieter_Claeszoon_-_Vanitas.JPG)
 
 ## Офицеры
 
-Вы начинаете героями 5 lvl, во время [абордажа Ганг-и-Савая](/black-flags/docs/world-getting-started-intro.md) получившими этот уровень. Выбирайте свою должность из списка ниже, а затем воспользуйтесь [карточкой персонажа](https://raw.githubusercontent.com/Shadybloom/sea-tribes/master/black-flags/docs/world-hero-example.txt).   
+Это вы, господа. Офицеры из команды Фэнси. Быть может старые друзья Эвери, а может и просто вольные клинки, сорвавшиеся в поход на особенную дичь.
 
 1. Расы. Люди всех мастей, с осторожностью звери и зверолюды. Эльфы с дворфами ни к чему.
 2. Классы из «Руководства игрока», а изобретатель (Artificer) из «Котла Таши». Мультиклассы запрещены.
