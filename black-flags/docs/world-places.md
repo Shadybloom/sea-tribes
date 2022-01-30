@@ -258,11 +258,6 @@
 
 >By the middle of the 17th century almost half the island, in the west and north, is ruled by a dynasty emerging from the Sakalava tribes.  
 >The island was visited several times during the XVIth and XVIIth centuries, but they were never permanently settled. A lot of shipwrecks were scattered along its coast.  
->A chronicler of the XVIIth century referred to a local population, who massacred these Portuguese, having settled this place. The chronicler also stated that in his own time (1600) there were many mestiços born from a crossbreed between the shipwrecked people and the local inhabitants.  
->1675 – A ship stopped at Fort Dauphin to find the settlement in ashes.  
->French King Louis XIV decided to abandon the colony which by then over 30 years had resulted in about 4,000 French deaths (and most likely even more Malagasy) and cost its shareholders 10 million livres (60 000 эфес, 2000 эфес/год).  
->https://www.colonialvoyage.com/portuguese-fort-in-madagascar/  
->https://en.wikipedia.org/wiki/Fort-Dauphin_(Madagascar)
 
 ```
 Правитель: Андриана-зана-тумпу, варвар 11 lvl, дикой магии.
@@ -271,7 +266,7 @@
 Боеспособность: до 3000 окрестного ополчения, 1000 регуляров с луками (5 lvl командиры), 300 опытных бойцов (7 lvl командиры)
 ```
 
-### Остров Сен Мари
+#### Остров Сен Мари
 
 >От бухты Антсира на Мадагаскаре до Сен-Мари 360 миль. Этот остров целиком принадлежит нам. На соседнем побережье Мадагаскара немногочисленные дикарские селения, дистанция между ними 12-18 миль.
 
@@ -279,6 +274,13 @@
 
 - Порт открыт для наших кораблей. Всегда можно купить провиант, дерево и хорошую парусину. Оружия не избыток, но найдётся для своих. Иногда продают призовые корабли и волшебные вещи. Много наёмников, всегда уйма новых лиц.
 - Рядом есть ещё одна база в заливе [Рантабе][22]. Туда мы заглядываем на охоту, и там же останавливаются недоверенные корабли. Без нашего лоцмана в бухту Сен-Мари не попасть.
+
+>Fleeing from Jamaica after being charged with murder, Baldridge sailed to Madagascar and, by 1690, had established a base of operations on the island of St. Mary's. By the following year, Baldridge controlled the inland waterway into St. Mary's having established a virtual stronghold overlooking the island harbor as well as protecting the settlements' warehouses. After he had subdued the local tribes, native chieftains would be forced to pay Baldridge to mediate between warring tribes.  
+>Baldridge's settlement had become a popular haven among pirates of the Mediterranean with Baldridge supplying pirates in exchange for high fees. Baldridge's trading supplies came from New York merchant Frederick Philipse, who chartered a number of ships under captains John Churcher, Thomas Mostyn, and others; Baldridge sent slaves back in return.  
+>Baldridge reportedly lived a luxurious and extravagant life on the island, which included his own harem of island women, until 1697 when he was forced to flee to the American colonies after the local tribes discovered he had sold a group of natives as slaves. A number of pirates were killed in the ensuing uprising, including John Hoar, Robert Glover, and the remainder of Thomas Wake's crew, who had cruised with Tew and Every.  
+>https://en.wikipedia.org/wiki/Adam_Baldridge  
+>https://en.wikipedia.org/wiki/Robert_Glover_(pirate)  
+>https://en.wikipedia.org/wiki/Frederick_Philipse  
 
 ```
 Правитель: Генри Эвери, воин 11 lvl, мастер боевых искусств.
@@ -288,15 +290,38 @@
 Флот: 40-пушечный фрегат (наш Фэнси), 20-пушечный фрегат (Сюзанна), три 10-пушечных брига, шесть 10-пушечных шлюпов.
 ```
 
+##### Форт Дауфин
+
+>От острова Сен-Мари 600 миль до форта Дауфин. Это путь вдоль слабо-заселённого восточного побережья Мадагаскара, 12-15 миль между дикарскими деревнями.  
+
+[Форт Дауфин][23]. Многострадальная французская колония, в которую было вложено 1/7 стоимости Версаля из королевской казны.  
+
+- Ныне руины, после всех эпидемий и нападения своры особенно зверских племён. Угадайте с одного раза, кто их натравил.  
+
+>A chronicler of the XVIIth century referred to a local population, who massacred these Portuguese, having settled this place. The chronicler also stated that in his own time (1600) there were many mestiços born from a crossbreed between the shipwrecked people and the local inhabitants.  
+>1675 – A ship stopped at Fort Dauphin to find the settlement in ashes.  
+>French King Louis XIV decided to abandon the colony which by then over 30 years had resulted in about 4,000 French deaths (and most likely even more Malagasy) and cost its shareholders 10 million livres (60 000 эфес, 2000 эфес/год).  
+>https://www.colonialvoyage.com/portuguese-fort-in-madagascar/  
+>https://en.wikipedia.org/wiki/Fort-Dauphin_(Madagascar)
+
+#### Бухта Сен-Августин
+
+>От Коморских островов 800 миль до бухты Сен-Августин. Это путь вдоль западного побережья Мадагаскара, 6-12 миль между дикарскими деревнями.
+
+В [бухте Сен-Августин][24] на юго-западном побережье Мадагаскара тоже есть пиратская база и торговый пост. Но с Сен-Мари не сравнить.  
+
+>The John and Rebecca sailed for the Cape of Good Hope and the Persian Gulf in December 1695. It was during this voyage that Abraham Samuel was elected ship's quartermaster. After some navigation trouble they put in at Adam Baldridge’s pirate trading post at St. Augustine in Madagascar until April 1696.  
+>https://en.wikipedia.org/wiki/John_Hoar_(pirate)  
+
 ### Маскаренские острова
 
 >От Сен-Мари 500 миль до Бурбона и Маврикия, и 1000 миль до Родригеса. На островах европейские колонии, но в остальном они необитаемы и полны доверчивого зверья.
 
-Архипелаг состоит из французского [Бурбона][23], голландского [Маврикия][24] и гугенотского [Родригеса][25], на каждом своя атмосфера.  
+Архипелаг состоит из французского [Бурбона][25], голландского [Маврикия][26] и гугенотского [Родригеса][27], на каждом своя атмосфера.  
 
 - Остров Бурбон, это город Сен-Поль, крупная Французская колония, где останавливаются идущие в Индию корабли. Там есть форт и батальон мушкетёров, хорошая гавань и быстро растущие фермы в окрестных холмах.
-- [Остров Маврикий][26], это хиреющая голландская колония. Что-то всё у них не ладится, то крысы разведутся, то буря побьёт урожай. Сейчас там меньше трёх сотен оборванцев, которые доедают последнего додика и рады бы уехать хоть на каком корабле. Брошенный форт, чёрное дерево и огромные черепахи.
-- Остров Родригес, это деревня [французских гугенотов][27], которые больше дружат с голландцами. Ребята мутные. Зато там тоже [ДоДо живут][28].
+- [Остров Маврикий][28], это хиреющая голландская колония. Что-то всё у них не ладится, то крысы разведутся, то буря побьёт урожай. Сейчас там меньше трёх сотен оборванцев, которые доедают последнего додика и рады бы уехать хоть на каком корабле. Брошенный форт, чёрное дерево и огромные черепахи.
+- Остров Родригес, это деревня [французских гугенотов][29], которые больше дружат с голландцами. Ребята мутные. Зато там тоже [ДоДо живут][30].
 
 >Французский Бурбон  
 >Colonisation started in 1665, when the French East India Company sent the first settlers.  
@@ -343,9 +368,11 @@ https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_et_Accuratissima_Terrar
 [20]:http://wikimapia.org/#lang=en&lat=-12.197087&lon=49.499588&z=11&m=bh&show=/19029838/Antsiranana-Bay
 [21]:http://wikimapia.org/#lang=en&lat=-17.007381&lon=49.848490&z=14&m=bh&show=/18989895/fr/Lac-Ilot-Madame
 [22]:http://wikimapia.org/#lang=hu&lat=-15.693864&lon=49.670563&z=13&m=bh
-[23]:http://wikimapia.org/#lang=en&lat=-21.504186&lon=57.019043&z=7&m=w&show=/7637217/R%C3%A9union
-[24]:http://wikimapia.org/#lang=en&lat=-19.715000&lon=59.040527&z=7&m=w&show=/8058951/Mauritius-Island
-[25]:http://wikimapia.org/#lang=en&lat=-19.145168&lon=61.940918&z=7&m=w&show=/992610/Rodrigues-(Mauritius)
-[26]:https://www.colonialvoyage.com/dutch-mauritius/
-[27]:https://en.wikipedia.org/wiki/Fran%C3%A7ois_Leguat
-[28]:https://upload.wikimedia.org/wikipedia/commons/d/d9/Leguat_Settlement.jpg
+[23]:http://wikimapia.org/#lang=hu&lat=-25.031328&lon=47.001915&z=12&m=w&show=/873566/Taolagnaro 
+[24]:http://wikimapia.org/#lang=pl&lat=-23.548409&lon=43.787727&z=12&m=bh&show=/19441378/Saint-Augustin
+[25]:http://wikimapia.org/#lang=en&lat=-21.504186&lon=57.019043&z=7&m=w&show=/7637217/R%C3%A9union
+[26]:http://wikimapia.org/#lang=en&lat=-19.715000&lon=59.040527&z=7&m=w&show=/8058951/Mauritius-Island
+[27]:http://wikimapia.org/#lang=en&lat=-19.145168&lon=61.940918&z=7&m=w&show=/992610/Rodrigues-(Mauritius)
+[28]:https://www.colonialvoyage.com/dutch-mauritius/
+[29]:https://en.wikipedia.org/wiki/Fran%C3%A7ois_Leguat
+[30]:https://upload.wikimedia.org/wikipedia/commons/d/d9/Leguat_Settlement.jpg
