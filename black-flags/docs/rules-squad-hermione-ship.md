@@ -381,3 +381,5 @@ http://sailhistory.ru/pump.html
 Такелажные блоки:  
 http://sailhistory.ru/blocks.html  
 
+Шлюпки:  
+https://flot.com/publications/books/shelf/boat/index.htm  
