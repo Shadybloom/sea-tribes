@@ -1,6 +1,6 @@
 # Уиллоугейт
 
-https://i.pinimg.com/originals/6b/92/6a/6b926a373f12ddf8bc2f24fedba435f2.jpg
+![Карта](https://i.pinimg.com/originals/6b/92/6a/6b926a373f12ddf8bc2f24fedba435f2.jpg)
 
 ## Подконтрольные владения
 
