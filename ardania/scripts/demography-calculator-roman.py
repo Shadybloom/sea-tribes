@@ -13,7 +13,8 @@ AGE_END = 100
 # Численность населения в год начала отсчёта:
 #POPULATION = 30000
 #POPULATION = 6000
-POPULATION = 1000
+POPULATION = 1807
+#POPULATION = 1000
 # Уровень рождаемости (например: 0.03 значит 3%
 # или 30 новорожденных на 1000 населения в год):
 # http://vln.by/node/214
@@ -68,7 +69,7 @@ prof_percent = 0.90
 prof_hazard = 0.03
 # Призывники обоих полов? 0 - нет; 1 - да
 prof_male_switch = 1
-prof_female_switch = 1
+prof_female_switch = 0
 # Возраст призыва:
 prof_age_apprentice = AGE_ADULT
 # Возраст перехода в Резервисты:
